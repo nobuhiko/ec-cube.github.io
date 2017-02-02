@@ -33,7 +33,7 @@ php app/console plugin:develop --help
 プラグインの雛形を作成するためのプラグインジェネレータコマンドは
 
 ```
-php app/console plugin:develop genereate
+php app/console plugin:develop generate
 ```
 
 を実行します。
